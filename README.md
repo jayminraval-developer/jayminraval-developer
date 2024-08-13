@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi 👋, I'm Jaymin Raval</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Students</h3>
 
 
 <p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcaSlrnzQGovekQBYHYg0ZB5Ajy1xZaecLA&s" /> </p>
