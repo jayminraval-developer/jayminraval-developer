@@ -5,7 +5,7 @@
 
 <p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcaSlrnzQGovekQBYHYg0ZB5Ajy1xZaecLA&s" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce WebApplication In Java**
+
 
 - 🌱 I’m currently learning **JAVA Spring, SpringBoot**
 
