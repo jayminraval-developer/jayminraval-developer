@@ -5,10 +5,6 @@
 
 <p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcaSlrnzQGovekQBYHYg0ZB5Ajy1xZaecLA&s" /> </p>
 
-
-
-- 🌱 I’m currently learning **JAVA Spring, SpringBoot**
-
 - 📫 How to reach me **jayminraval57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
