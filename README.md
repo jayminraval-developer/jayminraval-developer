@@ -3,104 +3,119 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e83cd&height=200&section=header&text=Jaymin%20Raval&fontSize=45&fontColor=ffffff" />
 </p>
 
-<h2 align="center">👨‍💻 Full Stack Developer | ASP.NET MVC & React.js Enthusiast</h2>
+<h2 align="center">🧑‍💻 Full Stack Developer | ASP.NET MVC & React.js Enthusiast</h2>
 <p align="center">
-  🎓 MSc (CA & IT) Final Year | 🛠 Building Scalable Projects | 💡 Passionate About Clean UI/UX
+  🎓 MSc (CA & IT) | 💡 Crafting Scalable Web Apps | 🎯 Focused on Clean Code & Clean UI
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 📍 Based in Palanpur, Gujarat, India  
-- 🎓 Master’s student at HNGU Patan – MSc (CA & IT)  
-- 💼 Focused on ASP.NET MVC + React.js based full stack applications  
-- ⚡ Love creating real-world solutions with elegant UIs and scalable backends  
-- 🎯 Career Goal: Full Stack Developer in 2025  
-- 🧠 Currently Learning: Azure Cloud | Deployment Automation
+- 🏠 Based in Palanpur, Gujarat, India  
+- 🎓 Pursuing MSc (CA & IT) – Final Year @ HNGU Patan  
+- 🧩 Tech Stack: ASP.NET MVC | React.js | SQL Server | Bootstrap  
+- ⚙️ Passionate about solving real-world problems using tech  
+- 🌐 I build full-stack projects with pixel-perfect UI and powerful backend logic  
+- ☁️ Currently Learning: Azure | CI/CD | Cloud Deployments  
+- 🧠 Career Goal: Become a modern Full Stack Developer by 2025  
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,cs,dotnet,mysql,sqlserver,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,mysql,sqlserver,bootstrap,tailwind,git,github,vscode,visualstudio,azure" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🌟 Featured Projects
 
 #### 🎟️ Bookvent – Event Booking & Management System
-> Full-featured event ticketing and management web platform  
-> Built with: **ASP.NET MVC**, **SQL Server**, **Stripe API**, **Bootstrap 5**  
-> 👤 User, Admin, and Event Manager Panels  
-> 💳 Ticket Payments | 🎨 Responsive UI | 📊 Event Stats
+> A modern event ticketing and management platform with multi-role access  
+> 🔹 Tech: **ASP.NET MVC**, **SQL Server**, **Bootstrap 5**, **Stripe API**  
+> 🧑‍💼 Roles: User | Event Manager | Admin  
+> 💳 Features: Ticket Booking | Payment Integration | Event Insights | Responsive UI  
 
 🔗 [View Repository](https://github.com/jayminraval-developer/Bookvent)
 
 ---
 
 #### 📚 Library Management System
-> Desktop application for managing books, members, and borrow/return records  
-> Built with: **Java**, **Swing UI**, **MySQL**
+> Java-based desktop app for managing book inventory and members  
+> 🔹 Tech: **Java**, **Swing**, **MySQL**  
+> 🔐 Features: Borrow/Return, User Records, Book Inventory
 
 🔗 [View Repository](https://github.com/jayminraval-developer/LibraryManagementSystem)
 
 ---
 
 #### 🎬 Movie Review Web App
-> Users can submit, edit, and explore movie reviews with category filters  
-> Built with: **ASP.NET MVC**, **Razor Views**, **Entity Framework**
+> Web app to review movies and explore reviews by genre  
+> 🔹 Tech: **ASP.NET MVC**, **Razor Pages**, **Entity Framework**, **SQL Server**  
+> ✍️ Features: Review CRUD, Category Filter, Admin Panel
 
 🔗 [View Repository](https://github.com/jayminraval-developer/MovieReviewApp)
 
 ---
 
 #### 🌐 Personal Portfolio Website
-> Responsive portfolio built with React showcasing projects, skills, and education  
-> Built with: **React.js**, **CSS3**, **EmailJS**, **React Router**
+> Sleek and responsive portfolio built using React  
+> 🔹 Tech: **React.js**, **CSS3**, **EmailJS**, **React Router**  
+> 🌍 Features: Project Gallery, Contact Form, Resume Section
 
 🔗 [View Repository](https://github.com/jayminraval-developer/Portfolio)
 
 ---
 
 #### 📈 Student Attendance Management System
-> Web-based Java project to track and manage student attendance  
-> Built with: **Java**, **Servlets/JSP**, **MySQL**, **HTML/CSS/JS**
+> Web-based Java project for tracking student attendance  
+> 🔹 Tech: **Java**, **Servlets**, **JSP**, **MySQL**, **HTML/CSS/JS**
 
 🔗 [View Repository](https://github.com/jayminraval-developer/StudentAttendanceSystem)
 
 ---
 
-#### 📐 Simple Calculator App
-> Android-based calculator with custom styling  
-> Built with: **Java (Android Studio)**, **XML**
+#### 🧮 Simple Calculator App
+> Android calculator app with custom UI  
+> 🔹 Tech: **Java**, **XML**, **Android Studio**
 
 🔗 [View Repository](https://github.com/jayminraval-developer/SimpleCalculatorApp2)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayminraval-developer&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayminraval-developer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayminraval-developer&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayminraval-developer&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayminraval-developer&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayminraval-developer&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/jayminraval" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:jayminravaldeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" />
+  <a href="https://github.com/jayminraval-developer">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
