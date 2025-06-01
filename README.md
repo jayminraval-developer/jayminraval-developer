@@ -52,9 +52,9 @@
 ---
 
 #### 🎬 Movie Review Web App
-> Web app to review movies and explore reviews by genre  
-> 🔹 Tech: **ASP.NET MVC**, **Razor Pages**, **Entity Framework**, **SQL Server**  
-> ✍️ Features: Review CRUD, Category Filter, Admin Panel
+// > Web app to review movies and explore reviews by genre  
+// > 🔹 Tech: **ASP.NET MVC**, **Razor Pages**, **Entity Framework**, **SQL Server**  
+// > ✍️ Features: Review CRUD, Category Filter, Admin Panel
 
 🔗 [View Repository](https://github.com/jayminraval-developer/MovieReviewApp)
 
